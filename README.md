@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrSasanBarak an assistant professor in business analytics within Southampton Business School, UK. 
+- 👋 Hi, I’m @DrSasanBarak an assistant professor in business analytics and finance within Southampton Business School, UK. 
 
 - 👀 I’m interested in machine learning research in management science and finance 
 - 🌱 I’m currently working on 
